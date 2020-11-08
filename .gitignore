@@ -1,0 +1,8 @@
+db.sqlite3
+geckodriver.log
+bin/
+lib/
+lib64/
+pyvenv.cfg
+superlists/__pycache__/
+*.pyc
